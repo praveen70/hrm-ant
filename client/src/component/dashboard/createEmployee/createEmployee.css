@@ -1,0 +1,28 @@
+
+
+.bodyTag{
+    position: absolute;
+    padding-left: 0%;
+   
+}
+.buttonTag{
+    margin-left: 80%;
+    width: 50px;
+}
+h1, h2, h3, h4, h5, h6 {
+
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 500;
+    padding-top: 50px;
+
+}
+.top{
+    padding-top: 90px;
+}
+
+.card {
+    margin-bottom: 24px;
+  }
+  .span{
+      color:red;
+  }

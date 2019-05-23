@@ -1,0 +1,26 @@
+.educationFormTag{
+    position: absolute;
+}
+
+
+.Tag{
+    position: absolute;
+    padding-left: 0%;
+    margin-left: 0px;
+}
+
+.items{
+    width:100%;
+    padding-top: 50px;
+    display: block;
+
+}
+
+
+.ant-col-12 {
+
+    display: block;
+    box-sizing: border-box;
+    width: 50%;
+
+}

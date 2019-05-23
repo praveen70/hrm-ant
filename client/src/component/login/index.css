@@ -1,0 +1,88 @@
+#components-form-demo-normal-login .login-form {
+    max-width: 300px;
+  }
+  #components-form-demo-normal-login .login-form-forgot {
+    float: right;
+  }
+  #components-form-demo-normal-login .login-form-button {
+    width: 100%;
+  }
+
+  .App{
+    
+    left:10px;
+    top:100px;
+
+  }
+  .element {
+    display: flex;
+    background-image: orange;
+}
+
+.ant-form {
+
+  font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 46px;
+  font-variant: tabular-nums;
+  line-height: -4.5;
+  color: rgba(0, 0, 0, 0.65);
+  list-style: none;
+
+}
+.login-form{
+ border: solid;
+  /* box-shadow: 5px 3px 5px 3px ; */
+  margin-left:100px;
+
+
+ }
+ .input-sigin{
+  width:300px;
+
+}
+.checkBox{
+  margin-left:48px;
+}
+.forget-password{
+  margin-right:48px
+}
+
+.register{
+  margin-left:48px;
+}
+
+body  {
+  /* background-image: url("../image/hrBackground.jpg");
+  background-repeat: no-repeat, repeat;
+  width: 100%;
+  height: 100%; */
+  background-color:white;
+
+}
+.loader:empty {
+  position: absolute;
+  top: calc(50% - 4em);
+  left: calc(50% - 4em);
+  width: 6em;
+  height: 6em;
+  border: 1.1em solid rgba(0, 0, 0, 0.2);
+  border-left: 1.1em solid #000000;
+  border-radius: 50%;
+  animation: load8 1.1s infinite linear;
+
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+
+
+/* .container{
+  background-image: url("../image/hrBackground.jpg");
+  background-repeat: no-repeat, repeat;
+  width: 100%;
+  height: 100%;
+
+
+} */
